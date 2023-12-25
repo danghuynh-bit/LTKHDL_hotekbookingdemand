@@ -27,7 +27,7 @@
 3. Planning:
 * *Trello:* [Trello Planning](https://trello.com/b/4THMHnvS/ltkhdlhotelbookingdemand)
 * *Excel:* [Planning](https://docs.google.com/spreadsheets/d/1Gx896KLsRJGGjVOJGUed3V2RFqJwgM0vWPPNXXRd3lw/edit?fbclid=IwAR0b0IzBm67HOnZgV7wcKBiRTGORmtfDzOfDuB_xvlla2vOhZ_BaUnBGmX4#gid=0)
-* *Report:* file `Plan Report.pdf`
+* *Report:* file [`Plan Report.pdf`](https://github.com/danghuynh-bit/LTKHDL_hotelbookingdemand/blob/main/Plan%20Report.pdf)
 
 4. Implementation:
 * Github: https://github.com/danghuynh-bit/LTKHDL_hotelbookingdemand
